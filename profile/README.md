@@ -9,3 +9,5 @@ This ownership model lends itself to non-capital intensive/high human capital pr
 For now, the collective provides little in terms of project support, outside of the community base. Eventually, it will support the commonalities between projects; setting up LLCs, finances, common tech stacks, and HR. As the collective's support grows, its initial ownership stake in new projects will grow as well. It may also offer initial capital at a fixed ownership cost to new projects.
 
 The collective is itself a project within the collective, with the same ownership model. Collective founders may bring members of the collective in the collective ownership group at any time, through the same "build it, own it" model.
+
+Apply here: https://forms.gle/g5RSrbkEnqeVrxXh6
